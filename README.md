@@ -45,3 +45,34 @@ Project 5: Pokemon Game
   - Displays the pokemon level, the pokemon that the player is using, and the number of wins.
   - Allows the player to win and lose battles, and do exercises to gain points.
   - The player begins with an Eevee pokemon, that can evolve to a Leafeon or a Sylveon
+
+Semester 2:
+Project 1: Dog Breed 2
+
+ **Summary**: This program allows the user to look into many different dog breeds and find characteristics of that dog breed in order to find what dog appeals to their values so they know which dog to get.
+  
+  **Key Features**: 
+  - Displays images of the selected dog breed.
+  - Asks for the players input on what they want the dogs purpose to be.
+  - The player gets to choose what their designated dogs weight is.
+
+Project 2: To Do List
+
+**Summary**: This program allows the user to use this list program where they are able to make a todo list for the grocery store, where they can remove or add items to the list and later it as they go.
+  
+  **Key Features**: 
+  - Adds the inputted items to the list and removes checked off items.
+  - Counts the total items in the list.
+  - Gives the ability to sort the list alphabetically.
+
+Project 3: 8 ball
+
+**Summary**: This program asks for the user to input a yes or no question, in which the 8 ball will go through the list and generate a random response to the users question, with the ability to keep asking more questions.
+  
+  **Key Features**: 
+  - Has a delay time for the response to generate the shaking time of the 8 ball.
+  - Generate numerous random responses to the yes or no question.
+  - Inputs the users yes or no question.
+
+
+ 
