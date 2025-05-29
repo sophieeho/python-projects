@@ -1,6 +1,8 @@
 # python-projects
 This repository contains the projects that I have coded within python.
 
+Semester 1 :
+
 Project 1: MadLibs
 
   **Summary**: This program creates a madlibs story rooted from the big bad wolf and the three little pigs fairytale. The players input one word answers based to the questions asked. The questions give the player the ability to create their own version of the fairytale.
@@ -47,6 +49,7 @@ Project 5: Pokemon Game
   - The player begins with an Eevee pokemon, that can evolve to a Leafeon or a Sylveon
 
 Semester 2:
+
 Project 1: Dog Breed 2
 
  **Summary**: This program allows the user to look into many different dog breeds and find characteristics of that dog breed in order to find what dog appeals to their values so they know which dog to get.
